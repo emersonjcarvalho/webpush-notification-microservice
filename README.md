@@ -1,3 +1,9 @@
 # webpush-notification-microservice
 
-### coming soon...
+* Serverless 
+* Microservice 
+* AWS Lambda
+* AWS API Gateway
+* Firebase Cloud Messaging
+* Notification
+* WebPush
